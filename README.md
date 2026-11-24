@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MedCore HMS — Patient Admission Management System
 
 A full-stack **Patient Admission Management Web Application** built with **React, Vite, Tailwind CSS, Python FastAPI, SQLAlchemy ORM, and SQLite/PostgreSQL**. Designed as a modern hospital administration SaaS dashboard with strict frontend and backend validation, real-time search, multi-filter querying, live dashboard analytics, and persistent database storage.
@@ -251,3 +252,6 @@ cd backend
 - *Dashboard Overview (`/`)* — *(Add screenshot after deployment)*
 - *All Patients & Combined Filters (`/patients`)* — *(Add screenshot after deployment)*
 - *Add Patient Form (`/add-patient`)* — *(Add screenshot after deployment)*
+=======
+# -medcore-patient-management
+>>>>>>> cc6a66cc0fc3fa4f547000ebbfa0148a99469af9
