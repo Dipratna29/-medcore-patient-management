@@ -7,9 +7,9 @@ A full-stack **Patient Admission Management Web Application** built with **React
 
 ## Live & Repository Links
 
-- **Live Application URL:** `https://your-vercel-app-url.vercel.app` *(placeholder — replace after Vercel deployment)*
-- **Backend API Docs (Swagger):** `https://your-render-api-url.onrender.com/docs` *(placeholder — replace after Render deployment)*
-- **GitHub Repository URL:** `https://github.com/your-username/patient-admission-management` *(placeholder — replace with your repository URL)*
+- **Live Application URL:** `https://medcore-hms-1nox.onrender.com` 
+- **Backend API Docs (Swagger):** `https://medcore-api-juax.onrender.com/docs` 
+- **GitHub Repository URL:** `` 
 
 ---
 
