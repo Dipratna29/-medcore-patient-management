@@ -9,7 +9,7 @@ A full-stack **Patient Admission Management Web Application** built with **React
 
 - **Live Application URL:** `https://medcore-hms-1nox.onrender.com` 
 - **Backend API Docs (Swagger):** `https://medcore-api-juax.onrender.com/docs` 
-- **GitHub Repository URL:** `` 
+- **GitHub Repository URL:** `https://github.com/Dipratna29/-medcore-patient-management` 
 
 ---
 
